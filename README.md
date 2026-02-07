@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isStructConstructorLike from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-struct-constructor-like@deno/mod.js';
+import isStructConstructorLike from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-struct-constructor-like@v0.1.1-deno/mod.js';
 ```
 
 #### isStructConstructorLike( value )
@@ -76,7 +76,7 @@ var bool = isStructConstructorLike( Struct );
 
 ```javascript
 import structFactory from 'https://cdn.jsdelivr.net/gh/stdlib-js/dstructs-struct@deno/mod.js';
-import isStructConstructorLike from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-struct-constructor-like@deno/mod.js';
+import isStructConstructorLike from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-struct-constructor-like@v0.1.1-deno/mod.js';
 
 var schema = [
     {
