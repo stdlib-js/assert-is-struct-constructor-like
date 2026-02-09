@@ -43,13 +43,13 @@
   },
   "devDependencies": {
     "@stdlib/assert-is-boolean": "^0.2.3",
-    "@stdlib/dstructs-struct": "^0.1.0",
-    "@stdlib/stats-base-ztest-one-sample-results-float64": "^0.1.0",
+    "@stdlib/dstructs-struct": "^0.1.1",
+    "@stdlib/stats-base-ztest-one-sample-results-float64": "^0.0.1",
     "@stdlib/utils-noop": "^0.2.3",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.2.2"
+    "@stdlib/bench-harness": "^0.2.3"
   },
   "engines": {
     "node": ">=0.10.0",
